@@ -19,7 +19,6 @@ while(i <= n){
     }
     i++;
 }
-
 if(stack.length > 0){
     console.log('NO');
     return;
